@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "nouislider": "^15.7.1",
+    "noUiSlider": "^15.7.1",
     "pristinejs": "^1.1.0"
   },
   "scripts": {
