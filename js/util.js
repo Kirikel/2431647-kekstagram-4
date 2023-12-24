@@ -23,7 +23,6 @@ const expose = (callback, timeoutDelay = 500) => {
 };
 
 const sortReversed = (data) => [...data].sort((firstItem, secondItem) => secondItem.comments.length - firstItem.comments.length);
-
 const sortRandomly = (data) => [...data].sort(() => Math.random() - 0.5);
 
 export { fillFragment, closeModalOnEsc, sortReversed, sortRandomly, expose };
