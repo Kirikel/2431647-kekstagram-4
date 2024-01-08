@@ -1,45 +1,8 @@
 # Личный проект «Кекстаграм»
+![image](https://github.com/Kirikel/2431647-kekstagram-4/assets/120775570/95ff9f58-a2f9-4b28-8742-a7757ebd8080)
+![image](https://github.com/Kirikel/2431647-kekstagram-4/assets/120775570/18cbf51c-0566-48b5-a5dd-c8753ae22e42)
+![image](https://github.com/Kirikel/2431647-kekstagram-4/assets/120775570/7cd9aaf9-32c0-4513-a2bb-36256277acb3)
+![image](https://github.com/Kirikel/2431647-kekstagram-4/assets/120775570/cce552aa-9d0c-4e01-8a9f-57d2dbc2a21a)
+![image](https://github.com/Kirikel/2431647-kekstagram-4/assets/120775570/d83038ed-f501-4bae-bfbe-ef6ed5ead35e)
+![image](https://github.com/Kirikel/2431647-kekstagram-4/assets/120775570/b5295c59-219a-4c66-8700-2e12e331d1d2)
 
-* Студент: [Кирилл Михайленко](https://up.htmlacademy.ru/univer-js1/4/user/2431647).
-* Наставник: Евгений Лепёшкин.
-
----
-
-_Не удаляйте и не изменяйте самовольно файлы и папки:_
-_`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
-
----
-
-[Как работать с Git на проекте](Contributing.md) | [Как работать над проектом](Workflow.md)
-
-### Памятка
-
-#### 1. Зарегистрируйтесь на Гитхабе
-
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
-
-#### 2. Создайте форк
-
-Откройте репозиторий и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275222-1d624452-0050-11e8-8aca-06d2832724ce.png">
-
-Получится вот так:
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275223-1d7cf9fa-0050-11e8-829b-98ac3c9a4f8b.png">
-
-#### 3. Клонируйте репозиторий на свой компьютер
-
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275224-1d97a7dc-0050-11e8-89f9-41c9a7b2ae9c.png">
-
-Клонировать репозиторий можно так:
-
-```
-git clone SSH-адрес_вашего_форка
-```
-
-Команда клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-
-#### 4. Начинайте обучение!
